@@ -1,0 +1,11 @@
+Contares_RUS represent a big part mod to build the most launcher and spaceships from past Soviet Union, Ukraine and Russia
+
+Contares_RUS require following mods to work perfect:
+
+RealPlume 
+TweakScale
+ScanSat
+Firespitter (Plugin)
+Contares CORE
+
+
